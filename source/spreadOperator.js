@@ -5,7 +5,6 @@ let peliculas = [...peliculasAccion, ...peliculasComedia]
 
 console.log(peliculas);
 console.log(peliculasComedia);
-console.log(peliculasAccion);
 
 
 
