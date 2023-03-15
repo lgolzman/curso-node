@@ -4,6 +4,7 @@ let peliculasComedia = ["Mi Pobre Angelito", "Que pasó ayer",];
 let peliculas = [...peliculasAccion, ...peliculasComedia]
 
 console.log(peliculas);
+console.log(peliculasComedia);
 
 
 
